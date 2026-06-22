@@ -1,0 +1,10 @@
+[package]
+name = "wgpu_recursion"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bytemuck = "1.25.0"
+pollster = "0.4.0"
+wgpu = "29.0.3"
+winit = "0.30.13"
