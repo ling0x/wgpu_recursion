@@ -11,6 +11,8 @@ halving the coordinate space `depth` times. The depth cycles 1 → 8 every 3
 seconds so you watch the fractal converge live. A slow pan/zoom animation keeps
 it visually alive.
 
+![Sierpiński triangle rendered by wgpu_recursion](example.png)
+
 ## Run
 
 ```bash
